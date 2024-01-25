@@ -1,4 +1,0 @@
-{
-    "name": "DOA_soil_training_devcontainer",
-    "image": "ghcr.io/akraradets/doa_dev:latest"
-}
