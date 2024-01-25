@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  dev:
+    image: doa_dev:latest
+    build:
+      context: .
+      dockerfile: .Dockerfile
+    platform: linux/amd64
+    volumes:
+      - ./code:/src/code
+      - vscode-server:/root/.vscode-server
+
+
+volumes:  
+  vscode-server:
