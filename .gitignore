@@ -276,4 +276,6 @@ TSWLatexianTemp*
 *.lpz
 
 .venv/*
+dataset/*
+models/*
 !.keeps

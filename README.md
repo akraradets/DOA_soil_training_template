@@ -16,7 +16,7 @@ This repository is created using `GitHub Codespaces` and is tested in it.
 Once you clone the project or create a `GitHub codespace`, you will have to run install `Python` dependencies.
 
 ```shell
-pipenv install
+pipenv install --dev
 ```
 
 It will take some time to install, just wait.
