@@ -7,6 +7,7 @@ name = "pypi"
 mlflow = "*"
 torch = "==2.0.1"
 torchvision = "*"
+opencv-python = "*"
 
 [dev-packages]
 ipykernel = "*"
