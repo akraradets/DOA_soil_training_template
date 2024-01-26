@@ -278,4 +278,5 @@ TSWLatexianTemp*
 .venv/*
 dataset/*
 models/*
+results/*
 !.keeps
